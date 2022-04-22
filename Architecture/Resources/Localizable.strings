@@ -1,0 +1,14 @@
+"action.cancel" = "Cancel";
+"action.confirm" = "Confirm";
+"action.confirm.pay" = "Confirm & Pay";
+"action.finish" = "Finish";
+"action.back" = "Back";
+"action.save" = "Save";
+"action.done" = "Done";
+"action.next" = "Next";
+"action.send" = "Send";
+"action.update" = "Update";
+"action.verify" = "Verify";
+"action.remove" = "Remove";
+"action.delete" = "Delete";
+"action.submit" = "Submit";

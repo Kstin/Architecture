@@ -1,0 +1,28 @@
+PODS:
+  - R.swift (6.1.0):
+    - R.swift.Library (~> 5.3.0)
+  - R.swift.Library (5.3.0)
+  - ReactiveCocoa (10.3.0):
+    - ReactiveSwift (~> 6.2)
+  - ReactiveSwift (6.7.0)
+
+DEPENDENCIES:
+  - R.swift (~> 6.1.0)
+  - ReactiveCocoa (~> 10.1)
+
+SPEC REPOS:
+  trunk:
+    - R.swift
+    - R.swift.Library
+    - ReactiveCocoa
+    - ReactiveSwift
+
+SPEC CHECKSUMS:
+  R.swift: ec98ff71c4ab2f6fd01dd077e5afd15e63a4834c
+  R.swift.Library: 0fc583cb55a99e28901299cc451614cad1161962
+  ReactiveCocoa: 083ae559e6f588ce519cab412ea119b431c26a24
+  ReactiveSwift: 208201d6ecc9734196d147aa76bc1f24b1b821fe
+
+PODFILE CHECKSUM: 8b09a7b357e1df5649622eb5e08039239f0cf688
+
+COCOAPODS: 1.11.2

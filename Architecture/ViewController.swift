@@ -7,13 +7,19 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: BaseVC {
 
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    @IBOutlet private weak var showButton: UIButton!
+    
+    override func setupVC() {
+        
     }
-
+    
+    override func configureUI() {
+        showButton.configure(R.string.localizable.actionNext(), style: .action) {
+            print("tapped")
+        }
+    }
 
 }
 
